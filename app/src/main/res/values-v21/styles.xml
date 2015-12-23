@@ -1,0 +1,13 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+<!--
+    <style name="AppBaseTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        &lt;!&ndash;设置默认的背景色&ndash;&gt;
+        <item name="android:windowBackground">@color/default_background</item>
+
+        <item name="android:colorAccent">@color/default_accent_color</item>
+
+        <item name="android:colorPrimaryDark">@color/toolbar_background</item>
+
+        <item name="android:colorPrimary">@color/toolbar_background</item>
+    </style>-->
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--默认的界面背景色-->
+    <color name="default_background">#f1f1f1</color>
+    <!--默认的字体的颜色-->
+    <color name="default_text_color">#212121</color>
+    <!--默认的灰色字体颜色-->
+    <color name="default_grey_textcolor">#727272</color>
+    <!--默认的toolbar的背景颜色-->
+    <color name="toolbar_background">#00BCD4</color>
+    <!--默认的 accent color-->
+    <color name="default_accent_color">#FFC107</color>
+    <!--默认的 divider color-->
+    <color name="default_divider_color">#e3e3e3</color>
+    <!--可点击的字体颜色-->
+    <color name="clickable_color">#298fbe</color>
+</resources>
